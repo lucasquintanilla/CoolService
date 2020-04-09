@@ -1,3 +1,3 @@
-#CoolService
+# CoolService
 
-##Self-Installer Windows Service
+## Self-Installer Windows Service
